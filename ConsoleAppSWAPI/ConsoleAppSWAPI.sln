@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppSWAPI", "ConsoleAppSWAPI\ConsoleAppSWAPI.csproj", "{649ADB2F-BB2C-4522-BE72-4502E5A255D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppSWAPITests", "ConsoleAppSWAPITests\ConsoleAppSWAPITests.csproj", "{2DCAFEF3-2A83-4B1D-8484-58B8FF718339}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{649ADB2F-BB2C-4522-BE72-4502E5A255D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{649ADB2F-BB2C-4522-BE72-4502E5A255D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{649ADB2F-BB2C-4522-BE72-4502E5A255D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{649ADB2F-BB2C-4522-BE72-4502E5A255D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DCAFEF3-2A83-4B1D-8484-58B8FF718339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DCAFEF3-2A83-4B1D-8484-58B8FF718339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DCAFEF3-2A83-4B1D-8484-58B8FF718339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DCAFEF3-2A83-4B1D-8484-58B8FF718339}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4D99C79-8539-45F6-B125-8282C3580BB5}
+	EndGlobalSection
+EndGlobal
